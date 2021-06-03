@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Metal for metal: or, A proposal for a duty upon tin and pewter wrought in plates, dishes, or any other work whatsoever, of one penny upon every pound weight, to be levied as hereunder express'd, from the 1st of January 1695. for sixteen years next following; and the sum of money arising thereby to be applied to make good the loss upon the clipt money.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43446</idno><idno type="EEBO-CITATION">767618583</idno>
+  <idno type="VID">212596</idno>
+  <idno type="EEBO-PROQUEST">2264208443</idno>
+  
+            <idno type="OCLC"> 767618583</idno>
+            <idno type="OCLC">ocn 767618583</idno>
+            <idno type="STC">Wing M1916</idno>
+            <idno type="STC">ESTC R180568</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212596)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3021:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Metal for metal: or, A proposal for a duty upon tin and pewter wrought in plates, dishes, or any other work whatsoever, of one penny upon every pound weight, to be levied as hereunder express'd, from the 1st of January 1695. for sixteen years next following; and the sum of money arising thereby to be applied to make good the loss upon the clipt money.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University Library (New York, N.Y.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tin --  Taxation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Pewter --  Taxation --  Great Britain --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:212596:1"/>
+            <pb facs="tcp:212596:2"/>
+            <head>Metal for Metal: OR, A PROPOSAL For a Duty upon Tin and Pewter wrought in Plates, Dishes, or any other Work whatsoever, of one Penny upon every Pound Weight, to be levied as hereunder express'd, from the <hi>1st</hi> of <hi>January</hi> 1695. for sixteen Years next following; and the Sum of Money arising thereby to be applied to make good the Loss upon the Clipt Money.</head>
+            <p n="1">1. THAT from the first of <hi>January</hi> 1695. to the first of <hi>January</hi> 1712. no Pewte<g ref="char:EOLhyphen"/>rer or any Person that works Tin and Pewter, presume to expose to Sale any such Metal wrought, unless the same be first marked by the Officers of the Excise, having first paid a Duty to the same Officers of one Penny for every Pound Weight (of which he shall be repaid by the Buyer) under the Penalty of 20<hi>l.</hi> for every Offence, one half to the King, and the other to the Informer.</p>
+            <p n="2">2. That all Housekeepers, Lodgers, and others, shall be rated to have a certain Quantity of Tin or Pewter, according to their respective Quality, and pay one Penny for every Pound Weight, according to that Estimation, and have their Pewter and Tin marked by the same Officers, (let it be more or less than they have been rated) provided this Duty be demanded but once for the Term of the said sixteen Years.</p>
+            <p n="3">3. That the said Officers of the Excise make a Visit of the Houses once in every Year; and if they find any Tin or Pewter wrought, not marked, that the Owner thereof be forced to pay once more one Penny for every Pound Weight of the Pewter he was computed to have, unless he declares upon his Oath the Name of the Pewterer who has sold it.</p>
+            <p n="4">4. That the Officers of the Excise keep the Mark wherewith the said Tin or Pewter is to be marked, and that there be a great Penalty inflicted on such who shall be convicted of ha<g ref="char:EOLhyphen"/>ving counterfeited the same.</p>
+            <p n="5">5. That the said Penny upon every Pound of wrought Tin or Pewter be given back to those who shall export it out of the Kingdom.</p>
+            <p>
+               <table>
+                  <head>
+                     <hi>By the Hearth-Book there is in</hi> England 1300 <hi>thousand Houses.</hi>
+                  </head>
+                  <row>
+                     <cell>500000</cell>
+                     <cell>Houses—of poor People,</cell>
+                     <cell>—Nothing.</cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>150000</cell>
+                     <cell>Houses of Country People and Tradesmen, reputed to have Pewter Vessels,</cell>
+                     <cell>24 <hi>l.</hi> weight of Pewter, at 1 <hi>d.</hi> a Pound, for each House, is</cell>
+                     <cell>02 <hi>s.</hi>
+                     </cell>
+                     <cell>15000</cell>
+                  </row>
+                  <row>
+                     <cell>150000</cell>
+                     <cell>Houses—of Ditto, in a better Capacity,—60 <hi>l.</hi> for each House</cell>
+                     <cell> </cell>
+                     <cell>05 <hi>s.</hi>
+                     </cell>
+                     <cell>37500</cell>
+                  </row>
+                  <row>
+                     <cell>150000</cell>
+                     <cell>Houses of Shopkeepers, and part of the Farmers,—</cell>
+                     <cell>120 <hi>l.—</hi>
+                     </cell>
+                     <cell>10 <hi>s.</hi>
+                     </cell>
+                     <cell>75000</cell>
+                  </row>
+                  <row>
+                     <cell>150000</cell>
+                     <cell>Houses of great Farmers, Gentlemen and Merchants,—</cell>
+                     <cell>192 <hi>l.—</hi>
+                     </cell>
+                     <cell>16 <hi>s.</hi>
+                     </cell>
+                     <cell>120000</cell>
+                  </row>
+                  <row>
+                     <cell>150000</cell>
+                     <cell>of Ale-houses, Coffee-houses, and other Publick Houses,—</cell>
+                     <cell>288 <hi>l.—</hi>1 <hi>l.</hi>
+                     </cell>
+                     <cell>04 <hi>s.</hi>
+                     </cell>
+                     <cell>180000</cell>
+                  </row>
+                  <row>
+                     <cell>70000</cell>
+                     <cell>Houses some great Ale-houses, Taverns and Inns,—</cell>
+                     <cell>480 <hi>l.—</hi>2 <hi>l.</hi>
+                     </cell>
+                     <cell>00 <hi>s.</hi>
+                     </cell>
+                     <cell>140000</cell>
+                  </row>
+                  <row>
+                     <cell>25000</cell>
+                     <cell>Brewhouses, Stillers, Scarlet-Diers, great Publick Houses, as Halls, <hi>&amp;c.</hi> and Knights Houses,—</cell>
+                     <cell>600 <hi>l.—</hi>2 <hi>l.</hi>
+                     </cell>
+                     <cell>10 <hi>s.</hi>
+                     </cell>
+                     <cell>62500</cell>
+                  </row>
+                  <row>
+                     <cell>5000</cell>
+                     <cell>Lords and very large Publick Houses,</cell>
+                     <cell>1200 <hi>l.—</hi>5 <hi>l</hi>
+                     </cell>
+                     <cell>00 <hi>s.</hi>
+                     </cell>
+                     <cell>25000</cell>
+                  </row>
+                  <row>
+                     <cell role="total">1300000 Houses</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="total">655000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Sum that will be levied at first will be <hi>l.</hi> 655000 besides what it is at the Pewterers, which is re<g ref="char:EOLhyphen"/>puted at least one fifth Part of the Whole; and all the old Pewter Vessels be<g ref="char:EOLhyphen"/>ing generally exchanged for new ones every five Years, more or less, the fifth part only of the Sum above, will make a yearly Revenue of 131000 <hi>l.</hi> for 16 Years, to pay the Rents of a new Million-Adventure, and the 655000 <hi>l.</hi> will reimburse the Advance of the Bank of <hi>England,</hi> and the Million-Bank, as by the last Proposal of Mr. <hi>L. G.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
